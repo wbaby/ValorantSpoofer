@@ -1,2 +1,5 @@
 # ValorantSpoofer
- My HWID Spoofer For Valorant
+
+## Simple HWID Spoofer "Valorant" and other games
+
+> 14/09/2021 THE SPOOFER IS OUTDATED FOR VALORANT
